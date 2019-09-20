@@ -1,2 +1,2 @@
 # Bot
-Bot for teleg
+Bot for telegram with Sanya
